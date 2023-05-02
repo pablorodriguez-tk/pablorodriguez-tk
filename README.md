@@ -1,11 +1,5 @@
 <h2> Hey there! I'm Pablo.</h2>
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
-
-- 🤔 &nbsp; Exploring new technologies and developing software solutions.
-- 🎓 &nbsp; Learning and developing every day
-- 💼 &nbsp; Looking for a react developer job
-
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 🌐 &nbsp;
