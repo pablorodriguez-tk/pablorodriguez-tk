@@ -8,7 +8,10 @@
   ![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript)
   ![Next Js](https://img.shields.io/badge/-Next.Js-333333?style=flat&logo=next.js)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+  ![Nest.js](https://img.shields.io/badge/-Nestjs-333333?style=flat&logo=nestjs)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+  ![Ruby on Rails](https://img.shields.io/badge/-Ruby_on_Rails-333333?style=flat&logo=ruby)
 
 - 🌠 &nbsp;
   ![Material UI](https://img.shields.io/badge/-Material%20UI-333333?style=flat&logo=material-ui)
@@ -18,6 +21,7 @@
   
 - 🧪 &nbsp;
   ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
+  ![Pytest](https://img.shields.io/badge/-Pytest-333333?style=flat&logo=pytest)
 
 - 🛢 &nbsp;
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
@@ -26,19 +30,12 @@
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=Docker)
+  ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazonwebservices)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 - 🖥 &nbsp;
   ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
-
-<br/>
-
-<a href="https://github.com/pablorodriguez-tk">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pablorodriguez-tk&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablorodriguez-tk&theme=buefy&layout=compact" />
-</a>
-
 <br/>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
